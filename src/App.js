@@ -143,7 +143,7 @@ function App() {
         )}
 
         <div className="copy">
-          <p>By <a href="https://github.com/QuantumSystem" target="_blank" rel="noopener noreferrer" > Quantum System </a></p>
+          <p>By <a href="https://alexsoares.site" target="_blank" rel="noopener noreferrer" > Codificado por Alex</a></p>
         </div>
       </div>
     </div>
