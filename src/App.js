@@ -65,8 +65,8 @@ function App() {
 
         {typeof weatherData.main === 'undefined' ? (
           <div className="welcome">
-            <p>Bem-vindo ao aplicativo de ClimaTempo!
-              Digite uma cidade para obter o clima</p>
+            <p>Bem-vindo ao aplicativo de ClimaTempo!</p>
+              <p>Digite uma cidade para obter o clima</p>
           </div>
         ) : (
           <div className="mid">
@@ -143,7 +143,7 @@ function App() {
         )}
 
         <div className="copy">
-          <p>Feito nas horas vagas<a href="https://alexsoares.site" target="_blank" rel="noopener noreferrer" >por Alex</a></p>
+          <p>Feito nas horas vagas<a href="https://alexsoares.site" target="_blank" rel="noopener noreferrer" > por Alex Soares</a></p>
         </div>
       </div>
     </div>
