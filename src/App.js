@@ -65,8 +65,8 @@ function App() {
 
         {typeof weatherData.main === 'undefined' ? (
           <div className="welcome">
-            <p>Bem-vindo ao aplicativo de ClimaTempo!</p>
-              <p>Digite uma cidade para obter o clima</p>
+            <p>Bem-vindo ao ClimaTempo!</p>
+              Digite uma cidade para obter o clima
           </div>
         ) : (
           <div className="mid">
